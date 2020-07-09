@@ -1,4 +1,4 @@
-# Welcome to Nh?t Vi respository
+# Welcome to Nhat Vi respository
 This repository contains the source of a simple Java app. It is used to demonstrate the CI- Continuous Integration process, a part of Introduction to Software Engineering course at FPT University HCMC Campus
 
 ## You will find in this repo:
@@ -9,5 +9,5 @@ This repository contains the source of a simple Java app. It is used to demonstr
 ## Contact with me via:
 1. [GitHub](http://github.com/Nhatvii)
 2. [Facebook](https://facebook.com/nhatvii)
-
+3. [Email](quyrua1000@gmail.com)
 #### © 2020 by Nhatvii
