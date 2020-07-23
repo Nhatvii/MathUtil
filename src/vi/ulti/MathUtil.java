@@ -17,7 +17,7 @@ public class MathUtil {
     //mình chỉ nên tính n < 15 vì 201 to lắm
     public static long computeFactorial(int n) {
         long result = 1;
-        for (int i = 0; i <= n; i++) {
+        for (int i = 1; i <= n; i++) {
             result *= i;
         }
         return result;
