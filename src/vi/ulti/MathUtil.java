@@ -17,6 +17,9 @@ public class MathUtil {
     //mình chỉ nên tính n < 15 vì 201 to lắm
     public static long computeFactorial(int n) {
         long result = 1;
+        if (n < 0 || n > 15) {
+            throw new IllegalArgumentException("N must be >= 0 and  n <= 10");
+        }
         for (int i = 1; i <= n; i++) {
             result *= i;
         }
